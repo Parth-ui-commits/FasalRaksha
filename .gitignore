@@ -1,0 +1,11 @@
+.env
+.env.old
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+farm_profile.json
+data/
+models/
+*.db
+.streamlit/secrets.toml
